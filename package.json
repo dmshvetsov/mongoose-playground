@@ -1,0 +1,12 @@
+{
+  "privatw": true,
+  "name": "mongoose-playground",
+  "description": "Personal playground to try different ideas with mongoose",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dmitry Shvetsov <@dmshvetsov>",
+  "dependencies": {
+    "mongoose": "^5.12.3"
+  }
+}
